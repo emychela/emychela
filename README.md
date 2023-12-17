@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emychela
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL and R 
 - 💞️ I’m looking to collaborate on data analysis projects 
 - 📫 How to reach me emilyjela@gmail.com
